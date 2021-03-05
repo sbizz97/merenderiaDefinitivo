@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309116350866",
+    "project_id": "merenderia",
+    "storage_bucket": "merenderia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309116350866:android:38ddd26d1b4a62f8bdd14b",
+        "android_client_info": {
+          "package_name": "com.flutter.merenderia2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309116350866-vn3sor0unba9qf5c7q8rh9idp6q9ek7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-07k7uOJr8VilJZsU3NpT7xOaVsy0nBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309116350866-vn3sor0unba9qf5c7q8rh9idp6q9ek7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
